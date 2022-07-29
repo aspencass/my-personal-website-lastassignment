@@ -9,9 +9,12 @@ body {
     font-style: italic;
     background-color: greenyellow;
     text-align: center;
+    position: absolute; 
   }
   p2 {
-    text-align: right;
+    text-align: center;
+    margin-top: 400px;
+    margin-bottom: 400px;
   }
 
 

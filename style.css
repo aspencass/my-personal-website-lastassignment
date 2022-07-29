@@ -1,5 +1,10 @@
 body {
     background: beige;
     text-align: center;
+    font-family: Helvetica;
     }
-  
+  h2 {
+    font-size: x-small;
+    color: sienna
+    ;
+  }

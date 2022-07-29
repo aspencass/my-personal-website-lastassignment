@@ -1,10 +1,20 @@
 body {
     background: beige;
-    text-align: center;
+    text-align: left;
     font-family: Helvetica;
+    color: black;
     }
   h2 {
-    font-size: x-small;
-    color: sienna
-    ;
+    font-size: small;
+    font-style: italic;
+    background-color: greenyellow;
+    text-align: center;
+  }
+  p2 {
+    text-align: right;
+  }
+
+
+  img {
+    text-align: center;
   }
